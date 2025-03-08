@@ -1,5 +1,5 @@
 <?php
 
-echo 'zmiany z sredniej'
+echo 'zmiany z sredniej zmiany wagi'
 
 ?>
